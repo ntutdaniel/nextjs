@@ -15,6 +15,7 @@ const ChurchText = styled.p`
 
 const NameText = styled.p`
   font-size: 50px;
+  font-weight: normal;
   text-align: center;
   letter-spacing: 89px;
   text-indent: 89px;
